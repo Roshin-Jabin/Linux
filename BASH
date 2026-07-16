@@ -1,0 +1,5 @@
+List files: ls
+Present working directory: pwd
+Change directory: cd
+Create a directory: mkdir <Directory-name>
+Remove a directory: rm -rf <Directory-name>
