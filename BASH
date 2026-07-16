@@ -1,5 +1,9 @@
-List files: ls
+List files: ls -- lists all the files 
 Present working directory: pwd
 Change directory: cd
 Create a directory: mkdir <Directory-name>
 Remove a directory: rm -rf <Directory-name>
+Create a file : touch <file-name> --just creates the file
+Create a file and write contents : vim <file-name>
+
+
